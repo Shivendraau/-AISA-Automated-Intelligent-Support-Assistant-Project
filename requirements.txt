@@ -7,3 +7,7 @@ openai
 joblib 
 scikit-learn 
 flask 
+pandas  
+python-dotenv
+
+-e .
